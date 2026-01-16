@@ -1,0 +1,7 @@
+{
+  "name": "QuickCart WhatsApp Store",
+  "description": "A modern e-commerce platform for groceries and essentials with integrated WhatsApp ordering and an AI shopping assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
